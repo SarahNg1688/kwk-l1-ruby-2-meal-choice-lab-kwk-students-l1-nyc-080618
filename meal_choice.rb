@@ -33,5 +33,10 @@ def breakfast ()
 end
 breakfast()
 def lunch (lunch_food)
-  puts "Morning is the best time for #{breakfast_food}!"
+  puts "The Afternoon is the best time for #{lunch_food}!"
 end
+lunch ("Sandwich")
+def lunch ()
+  puts "Afternoon is the best time for scrambled eggs!"
+end
+breakfast()
