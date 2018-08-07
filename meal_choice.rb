@@ -37,6 +37,6 @@ def lunch (lunch_food)
 end
 lunch ("Sandwich")
 def lunch ()
-  puts "Afternoon is the best time for scrambled eggs!"
+  puts "Afternoon is the best time for grilled cheese!"
 end
-breakfast()
+lunch()
