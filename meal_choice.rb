@@ -37,6 +37,13 @@ def lunch (lunch_food)
 end
 lunch ("Sandwich")
 def lunch ()
-  puts "Afternoon is the best time for grilled cheese!"
+  puts "The Afternoon is the best time for grilled cheese!"
 end
 lunch()
+def dinner (dinner_food)
+  puts "Nightime is the best time for #{dinner_food}!"
+end
+dinner ("pasta")
+def dinner ()
+  puts "Nightime is the best time for salmon!"
+dinner()
