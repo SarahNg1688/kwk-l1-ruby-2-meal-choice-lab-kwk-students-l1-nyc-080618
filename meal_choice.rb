@@ -35,7 +35,7 @@ breakfast()
 def lunch (lunch_food)
   puts "The Afternoon is the best time for #{lunch_food}!"
 end
-lunch ("Sandwich")
+lunch ("sandwiches")
 def lunch ()
   puts "The Afternoon is the best time for grilled cheese!"
 end
