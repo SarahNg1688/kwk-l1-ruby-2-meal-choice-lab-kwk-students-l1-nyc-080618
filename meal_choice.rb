@@ -46,4 +46,5 @@ end
 dinner ("pasta")
 def dinner ()
   puts "Nightime is the best time for salmon!"
+end
 dinner()
