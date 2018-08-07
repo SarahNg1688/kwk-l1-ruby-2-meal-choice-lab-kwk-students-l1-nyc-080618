@@ -29,4 +29,6 @@ def breakfast (breakfast_food)
 end
 breakfast("yogurt")
 def breakfast ()
-  puts 
+  puts "Morning is the best time for scrambled eggs!"
+end
+breakfast()
